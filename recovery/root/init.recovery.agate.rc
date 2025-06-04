@@ -1,0 +1,6 @@
+on early-init
+    setprop ro.hardware agate
+    start logd
+
+on init
+    symlink /dev/block/platform/bootdevice/by-name/system /dev/block/system
