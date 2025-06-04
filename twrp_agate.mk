@@ -1,9 +1,9 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base.mk)
 
-DEVICE_PATH := device/xiaomi/agate-twrp
+DEVICE_PATH := device/xiaomi/agate
 
 PRODUCT_DEVICE := agate
-PRODUCT_NAME := omni_agate
+PRODUCT_NAME := twrp_agate
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := 11T
 PRODUCT_MANUFACTURER := Xiaomi

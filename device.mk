@@ -1,4 +1,4 @@
-DEVICE_PATH := device/xiaomi/agate-twrp
+DEVICE_PATH := device/xiaomi/agate
 
 PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/recovery.fstab:recovery/root/etc/recovery.fstab \
