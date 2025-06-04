@@ -1,2 +1,0 @@
-/dev/block/sdc*        0660   root   system
-/dev/block/platform/*  0660   root   system

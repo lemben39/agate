@@ -12,4 +12,3 @@ Arch: arm64-v8a
 Manufacturer: generic
 Model: Generic Device
 
-# agate
